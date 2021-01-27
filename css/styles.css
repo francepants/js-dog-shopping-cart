@@ -2,3 +2,8 @@
     width: 200px;
     height: auto;
 }
+
+.main-header {
+    background-image: url(../images/header/paws.jpg);
+    background-size: cover;
+}
