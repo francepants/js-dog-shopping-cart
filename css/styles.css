@@ -1,3 +1,17 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav ul {
+    margin: 0;
+}
+
 /* header */
 .main-header {
     background-color: rgba(0, 0, 0, .2);
@@ -5,6 +19,7 @@
     /* background-size: cover; */
     background-repeat: repeat;
     background-blend-mode: multiply;
+    padding-bottom: 30px;
 }
 
 
