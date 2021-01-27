@@ -1,9 +1,15 @@
+/* header */
+.main-header {
+    background-color: rgba(0, 0, 0, .2);
+    background-image: url(../images/header/paws.jpg);
+    /* background-size: cover; */
+    background-repeat: repeat;
+    background-blend-mode: multiply;
+}
+
+
+/* images */
 .vday-image {
     width: 200px;
     height: auto;
-}
-
-.main-header {
-    background-image: url(../images/header/paws.jpg);
-    background-size: cover;
 }
