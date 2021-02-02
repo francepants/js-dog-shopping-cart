@@ -15,6 +15,11 @@ html, body {
     text-decoration: none;
 }
 
+.nav a:hover {
+    /* background-color: #104443; */
+    background-color: rgba(16, 68, 67, .2)
+}
+
 .nav li {
     display: inline;
 }
