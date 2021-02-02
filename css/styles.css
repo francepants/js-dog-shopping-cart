@@ -2,6 +2,8 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
     color: #307473;
+    letter-spacing: 0.1em;
+    line-height: 2em;
 }
 
 html, body {
@@ -47,6 +49,11 @@ html, body {
     background-repeat: repeat;
     /* background-blend-mode: multiply; */
     padding-bottom: 30px;
+}
+
+.site-name {
+    font-family: 'Londrina Solid', cursive;
+    letter-spacing: 0.2em;
 }
 
 
