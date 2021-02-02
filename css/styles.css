@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
+    color: #68524D;
 }
 
 html, body {
@@ -14,11 +15,11 @@ html, body {
 
 /* header */
 .main-header {
-    background-color: rgba(0, 0, 0, .2);
+    /* background-color: rgba(0, 0, 0, 0); */
     background-image: url(../images/header/paws.jpg);
     /* background-size: cover; */
     background-repeat: repeat;
-    background-blend-mode: multiply;
+    /* background-blend-mode: multiply; */
     padding-bottom: 30px;
 }
 
